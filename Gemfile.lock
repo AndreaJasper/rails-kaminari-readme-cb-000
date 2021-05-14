@@ -208,6 +208,7 @@ GEM
 
 PLATFORMS
   aarch64-linux
+  ruby
 
 DEPENDENCIES
   byebug
